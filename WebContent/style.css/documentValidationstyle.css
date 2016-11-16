@@ -1,0 +1,362 @@
+body {
+	color: white;
+}
+a:hover
+{
+	text-decoration:None;
+}
+a:click
+{
+	text-decoration:None;
+}
+#main {
+	width: 1340px;
+	height: 48px;
+	background-color: #00A4CC;
+	margin-top: 30px;
+	border: none;
+	border-radius: 0px;
+	margin-left:-15px;
+}
+
+#name {
+	color: white;
+	margin-top: 5px;
+	width: 160px;
+	height: 140px;
+	margin-left: 10px;
+	font-family: 'Trebuchet MS Bold', 'Trebuchet MS Regular', 'Trebuchet MS';
+	font-weight: 700;
+	font-style: normal;
+	font-size: 32px;
+}
+
+li {
+	color: white;
+}
+
+.text {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	border: 0.1px solid #78CADE;
+	height: 50px;
+}
+
+.img {
+	margin-left: -20px;
+}
+#panel1{
+border-width: 0px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1330px;
+    height: 1370px;
+    background: inherit;
+    background-color:#F2F2F2;
+    border: none;
+    border-radius: 0px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+}
+#pan-footer{
+order-width: 0px;
+    position: absolute;
+    left: 0px;
+    top: 1465px;
+    width: 1340px;
+    height: 50px;
+    font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+
+}
+#pan-heading{
+border-width: 0px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1340px;
+    height: 88px;
+   
+    background-color:#C9C7C8;
+}
+#pan1{
+	    position: absolute;
+    left: 150px;
+    top: 200px;
+    width: 484px;
+    height: 184px;
+    background: inherit;
+  background-color:white;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+     border-color:#8ECBDB;
+    border-radius: 0px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	
+	
+}
+
+
+#pan2{
+	    position: absolute;
+    left: 700px;
+    top: 200px;
+    width: 484px;
+    height: 184px;
+    background: inherit;
+  background-color:white;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+     border-color:#8ECBDB;
+    border-radius: 0px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	
+	
+}
+#lable1{
+	left: 700px;
+    top: 200px;
+    color:black;
+    font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+	
+}
+.glyphicon{
+color:black;
+	
+	
+}
+#d1{
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #666666;
+    font-size: 14px;
+    text-align: left;
+     margin-left:10px;
+}
+#d2{
+	
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #FF7332;
+    font-size: 14px;
+    text-align: left;
+      margin-left:10px;
+}
+#d3{
+	font-size: 16px;
+    color: #666666;
+    margin-left:170px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#d4{
+	font-size: 16px;
+    color: #666666;
+    margin-left:188.05px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#img1{
+	border-width: 0px;
+    position: absolute;
+    left:27px;
+    top: 20px;
+    width: 15px;
+    height: 15px;
+}
+#img2{
+	border-width: 0px;
+    position: absolute;
+    left:27px;
+    top: 60px;
+    width: 15px;
+    height: 15px;
+}
+#img3{
+	border-width: 0px;
+    position: absolute;
+    margin-left:-7px;
+    top: 100px;
+    width: 15px;
+    height: 15px;
+}
+#d5{
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #666666;
+    font-size: 14px;
+    text-align: left;
+     margin-left:10px;
+}
+#d6{
+	font-size: 16px;
+    color: #666666;
+    margin-left:260px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+ #img4{
+	border-width: 0px;
+    position: absolute;
+    left: 55px;
+    top: 130px;
+    width: 10px;
+    height: 10px;
+} 
+#d7{
+	
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #4AD84A;
+    font-size: 14px;
+    text-align: left;
+     margin-left:37px;
+    
+}
+ #img5{
+	border-width: 0px;
+    position: absolute;
+    left: 55px;
+    top: 150px;
+    width: 10px;
+    height: 10px;
+} 
+#d8{
+	margin-top:-400px;
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #FF645A;
+    font-size: 14px;
+    text-align: left;
+     margin-left:37px;
+    
+}
+#d9{
+	font-size: 16px;
+    color: #666666;
+    margin-left:240px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#d10{
+	font-size: 16px;
+    color: #666666;
+    margin-left:243px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#d11{
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #666666;
+    font-size: 14px;
+    text-align: left;
+     margin-left:10px;
+    
+}
+#d20{
+	
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #666666;
+    font-size: 14px;
+    text-align: left;
+      margin-left:10px;
+}
+#d30{
+	font-size: 16px;
+    color: #666666;
+    margin-left:100px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#d40{
+	font-size: 16px;
+    color: #666666;
+    margin-left:90px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#img10{
+	border-width: 0px;
+    position: absolute;
+    left:27px;
+    top: 40px;
+    width: 15px;
+    height: 15px;
+}
+#img20{
+	border-width: 0px;
+    position: absolute;
+    left:27px;
+    top: 80px;
+    width: 15px;
+    height: 15px;
+}
+#img30{
+	border-width: 0px;
+    position: absolute;
+    margin-left:-7px;
+    top: 120px;
+    width: 15px;
+    height: 15px;
+}
+#d50{
+	font-family: 'Trebuchet MS';
+    font-weight: 400;
+    font-style: normal;
+    color: #666666;
+    font-size: 14px;
+    text-align: left;
+     margin-left:10px;
+}
+#d60{
+	font-size: 16px;
+    color: #666666;
+    margin-left:70px;
+    font-family: 'Arial';
+    font-weight: 400;
+    font-style: normal;
+}
+#doc_val1{
+margin-top:150px;
+margin-left:150px;
+color:#333333;	
+}
+#doc_val{
+	margin-top:-60px;
+	margin-left:550px;
+	color:#333333;
+}
